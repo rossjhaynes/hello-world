@@ -1,3 +1,8 @@
 # hello-world
 hello buddies
-This is my first commit change. How cool is that. I know...it's not using GPUs cool. 
+
+Let's try some stuff. 
+Print("How will this work?")
+
+
+More work being done. Typing another line. 
